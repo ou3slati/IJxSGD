@@ -1,7 +1,7 @@
 # Infinitesimal Jackknife for Deep Learning Uncertainty
 
 This repository accompanies the paper:  
-**[Automatic Differentiation and the Infinitesimal Jackknife for Uncertainty Quantification in Deep Learning](./main.tex)**.  
+**[Automatic Differentiation and the Infinitesimal Jackknife for Uncertainty Quantification in Deep Learning](./latex/main.tex)**.  
 
 The project explores how the **Infinitesimal Jackknife (IJ)**, a classical resampling method, can be adapted via **automatic differentiation** to provide fast and scalable **uncertainty quantification** for deep learning models. Instead of relying on expensive bootstrapping or Bayesian ensembles, IJ propagates per-sample influences through training, yielding predictive variance estimates with minimal computational overhead.
 
